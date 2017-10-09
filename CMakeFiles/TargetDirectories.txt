@@ -1,0 +1,3 @@
+/Users/skycloud/Desktop/vncsdk-1.5.1/samples/basicServer/CMakeFiles/rebuild_cache.dir
+/Users/skycloud/Desktop/vncsdk-1.5.1/samples/basicServer/CMakeFiles/edit_cache.dir
+/Users/skycloud/Desktop/vncsdk-1.5.1/samples/basicServer/CMakeFiles/basicServer.dir
